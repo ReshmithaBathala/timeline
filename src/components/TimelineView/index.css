@@ -1,0 +1,17 @@
+.time-line-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.time-line-heading {
+  font-size: 26px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #171f46;
+  text-align: center;
+}
+.span-heading {
+  color: #2b237c;
+  margin-top: 10px;
+}

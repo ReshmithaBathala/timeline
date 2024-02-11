@@ -1,0 +1,39 @@
+
+.pro-title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.pro-title {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #171f46;
+}
+
+.pro-container {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 18px;
+  margin-right: 10px;
+}
+.duration {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: black;
+}
+.description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #1e293b;
+}
+.project-img {
+  width: 100%;
+  height: 300px;
+}
